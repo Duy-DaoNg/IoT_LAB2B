@@ -22,4 +22,6 @@
   python3 main.py
 ```
 
-**Note**: Please make sure to check the program's documentation or the report to obtain any necessary keys before running the program.
+**Note**: 
+* Please make sure to check the program's documentation or the report to obtain any necessary keys before running the program.
+* If you are running on a Linux environment, please change COM3 to /dev/ttyS3 in the uart.py file.
